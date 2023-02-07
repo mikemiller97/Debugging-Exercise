@@ -1,7 +1,7 @@
 import random
 
 def myFunction(numList, num):
-           counter = 0
+          counter = 0
            for elem in range(numList):
                if elem < num
                    counter += 1
